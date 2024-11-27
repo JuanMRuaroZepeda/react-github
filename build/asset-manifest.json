@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-github/build/static/css/main.665e91fd.css",
+    "main.js": "/react-github/build/static/js/main.58941993.js",
+    "static/media/Image.png": "/react-github/build/static/media/Image.c46e75e54001943470be.png",
+    "index.html": "/react-github/build/index.html",
+    "main.665e91fd.css.map": "/react-github/build/static/css/main.665e91fd.css.map",
+    "main.58941993.js.map": "/react-github/build/static/js/main.58941993.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.665e91fd.css",
+    "static/js/main.58941993.js"
+  ]
+}
